@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #37538f;
+    height: 100vh;
+  }
+  #login .container #login-row #login-column #login-box {
+    margin-top: 120px;
+    max-width: 600px;
+    height: 320px;
+    border: 1px solid #9C9C9C;
+    background-color: #EAEAEA;
+  }
+  #login .container #login-row #login-column #login-box #login-form {
+    padding: 20px;
+  }
+  #login .container #login-row #login-column #login-box #login-form #register-link {
+    margin-top: -85px;
+  }
+  
+  /* ****************submissions************* */
+  .navbar a{
+    color: white!important;
+  }
+  /* *********status start******** */
+  .container{
+    height: 100vh!important;
+    width: 100%!important;
+  }
+  .form-group {
+    margin-bottom: 1rem;
+    margin-top: 40px;
+}
+.dropdown-menu button{ 
+  
+  color: white!important;
+  background-color: #37538f!important;
+}
+div.dropdown-menu.show{
+  background-color: #37538f;
+  border: none!important;
+  /* padding: 8px 8px!important; */
+}
+/* div.dropdown{
+  margin: 46px!important;
+  
+} */
+.btn-width{
+  width: 200px;
+  margin-left: 10px;
+}
